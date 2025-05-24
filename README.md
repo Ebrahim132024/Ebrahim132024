@@ -13,32 +13,6 @@ I enjoy turning complex business requirements into clean, maintainable code whil
 
 ---
 
-<--## 💼 Work Experience  
-
-**Senior Flutter Developer**  
-*Trans Tec*  
-Feb 2025 – Present  
-- Developed a dynamic cross-platform ERP app integrated with SAP via RESTful APIs.
-- Implemented multilingual support, responsive design, data caching, and error handling.
-- Ensured secure communication through API encryption and token-based authentication.
-- Followed Clean Architecture (MVVM), Bloc/Cubit state management, and best coding practices.
-
-**Mobile Application Developer (Flutter & Android)**  
-*HO Group*  
-Dec 2023 – Feb 2025 
-- Built and maintained Flutter apps with SAP integration for enterprise clients.
-- Collaborated with cross-functional teams to deliver scalable and performant solutions.
-- Used Agile methodologies (Scrum, Jira) for sprint planning, reviews, and retrospectives.
-
-**Flutter Developer**  
-*DLT Software*  
-Sep 2022 – Dec 2023  
-- Delivered 12+ Flutter apps with Firebase, Google services, and third-party APIs.
-- Mentored interns and led the implementation of scalable codebases.
-- Integrated deep linking, push notifications, and analytics for enhanced user engagement.
---/>
----
-
 ## 🛠️ Tech Stack  
 
 ### Mobile Development  
