@@ -13,7 +13,7 @@ I enjoy turning complex business requirements into clean, maintainable code whil
 
 ---
 
-## 💼 Work Experience  
+<--## 💼 Work Experience  
 
 **Senior Flutter Developer**  
 *Trans Tec*  
@@ -36,7 +36,7 @@ Sep 2022 – Dec 2023
 - Delivered 12+ Flutter apps with Firebase, Google services, and third-party APIs.
 - Mentored interns and led the implementation of scalable codebases.
 - Integrated deep linking, push notifications, and analytics for enhanced user engagement.
-
+--/>
 ---
 
 ## 🛠️ Tech Stack  
