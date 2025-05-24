@@ -69,14 +69,16 @@ Designed for Ontario insurance adjusters to assess property damage due to weathe
 👉 [**Pharma Today App**](https://drive.google.com/file/d/1stDUfbh8sAcg9OiCEesyk0mTs-Ptglex/view?usp=sharing )  
 A pharmaceutical sales and delivery management system integrated with SAP and Firebase.
 
-👉 [**HR Assist App**](https://drive.google.com/file/d/1sjbfFsDkZvCnwF1vx7Z_4nBgel6bJzXG/view?usp=sharing )  
+👉 [**Ho Assets App**](https://drive.google.com/file/d/1sjbfFsDkZvCnwF1vx7Z_4nBgel6bJzXG/view?usp=sharing )  
+Displays branches, departments, and assets with ownership and location details.
+
+👉 [**HR Assist App**](https://drive.google.com/file/d/1slVObYOkl7-v7Kh94FVPyb-d2btDyYhH/view?usp=sharing )  
 Leave and attendance management system with biometric authentication and role-based permissions.
 
 👉 [**Custom Portal (Cleopatra)**](#) *(Currently in development)*  
 Enterprise-level ERP mobile application integrated with SAP, supporting modules like Orders, Deliveries, Invoices, and more.
 
-👉 [**Meter Scan App**](#) *(Internal Project)*  
-AI-powered fuel meter scanning app using TensorFlow and Flutter for truck drivers.
+
 
 ---
 
